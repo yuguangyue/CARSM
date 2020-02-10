@@ -1,7 +1,7 @@
 # CARSM
 Code for Critic-ARSM policy gradient algorithm
 
-This Github repo contains codes for the experiments of *Discrete Action On-Policy Learning with Action-Value Critic* paper
+This Github repo contains codes for the experiments of **Discrete Action On-Policy Learning with Action-Value Critic** paper
 
 There are six .py files in total, and one baselines folder includes dependencies we need to run experiment. 
 
